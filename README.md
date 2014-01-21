@@ -3,4 +3,5 @@
 *Instalation Instructions:*
 * make a virtual machine with floppy controller
 * run ``$ sh doimg.sh ``
-* add boot.img to floppy controller
+* add floppy.img to floppy controller
+
