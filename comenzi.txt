@@ -1,0 +1,4 @@
+pentru a face floppy imagine
+dd if=/dev/zero of=disk.img bs=1024 count=1440
+pentru a inscrie de la inceput(primu sector)
+dd if=boot.bin of=disk.img conv-notrunc
